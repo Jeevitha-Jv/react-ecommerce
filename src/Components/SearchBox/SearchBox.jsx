@@ -30,9 +30,6 @@ const SearchBox = () => {
         placeholder='Search Products...'
         className='mr-sm-2 ml-sm-5'
       />
-      <button type='submit' variant='outline-success' className='p-2 mx-2'>
-        Search
-      </button>
     </form>
   );
 };
