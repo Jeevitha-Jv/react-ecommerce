@@ -1,13 +1,13 @@
-import p1_img from './product_1.png'
-import p2_img from './product_2.png'
-import p3_img from './product_3.png'
-import p4_img from './product_4.png'
+import p1 from './p1.jpg'
+import p2 from './p2.jpg'
+import p3 from './p3.jpg'
+import p4 from './p4.jpg'
 
 let data_product = [
   {
     id:1,
     name:"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
-    image:p1_img,
+    image:p1,
     new_price:50.00,
     old_price:80.50,
     rating: 3,
@@ -15,7 +15,7 @@ let data_product = [
   },
   {id:2,
     name:"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
-    image:p2_img,
+    image:p2,
     new_price:85.00,
     old_price:120.50,
     rating: 3,
@@ -23,7 +23,7 @@ let data_product = [
   },
   {id:3,
     name:"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
-    image:p3_img,
+    image:p3,
     new_price:60.00,
     old_price:100.50,
     rating: 3,
@@ -31,7 +31,7 @@ let data_product = [
   },
   {id:4,
     name:"Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
-    image:p4_img,
+    image:p4,
     new_price:100.00,
     old_price:150.00,
     rating: 3,
